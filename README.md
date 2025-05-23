@@ -1,4 +1,4 @@
-# EDA1_Assignment_Mahima
+# EDA1_Assignment 
 This dataset provides detailed information on used cars, ideal for building predictive models, conducting exploratory data analysis (EDA), and understanding factors influencing car resale prices. It is commonly used in machine learning projects focused on price prediction and market analysis.
 
 - In this dataset There are  9 columns and 301 rows.
