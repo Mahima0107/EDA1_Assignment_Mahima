@@ -19,7 +19,8 @@ Transmission	      Transmission type (e.g., Manual, Automatic)
 Owner	              Number of previous owners (0, 1, 2, or 3+)
 
 📈 Key Insights
-Depreciation Trends: Cars depreciate significantly over time. Newer models tend to retain higher resale values, especially within the first 3–5 years.
+Depreciation Trends: 
+Cars depreciate significantly over time. Newer models tend to retain higher resale values, especially within the first 3–5 years.
 Fuel Type Impact: Diesel vehicles often have higher resale values compared to petrol counterparts, likely due to better fuel efficiency and torque.
 Transmission Preferences: Manual transmission cars dominate the dataset, but automatic cars, though fewer, often command higher resale prices.
 Seller Type Influence: Cars sold by individual owners generally have lower asking prices than those sold by dealers, possibly due to added dealer margins.
@@ -27,7 +28,8 @@ Ownership Effect: Vehicles with fewer previous owners (especially first-hand) te
 Mileage Considerations: Lower Kms_Driven correlates with higher selling prices, reflecting buyer preference for less-used vehicles.
 
 🧠 Potential Use Cases
-Price Prediction Models: Utilize regression algorithms to predict resale prices based on car features.
+Price Prediction Models:
+Utilize regression algorithms to predict resale prices based on car features.
 Market Analysis: Identify trends in car sales, popular models, and pricing strategies.
 Customer Segmentation: Group customers based on preferences like fuel type, transmission, and budget.
 Inventory Management: Assist dealerships in stocking cars that are in higher demand based on historical data.
